@@ -30,7 +30,7 @@ include("constant.php");
         <img src="assets/images/image/menu.png" class="menu-icon" > 
         <!--<div class="fas fa-bars" class="menu-icon"></div> -->
         <!-- <img src="assets/images/Logo.jpg" class="logo"> -->
-        <a href="index.php"><h3 class="h3">Movieweb</h3></a>
+        <a href="index.php"><h3 class="h3">Movieweb O</h3></a>
           </div>
       <div class="nav-middle"></div>
       
@@ -41,6 +41,8 @@ include("constant.php");
       <img src="assets/images/image/notification.png" class="">
       <img src="assets/images/image/Jack.png" class="user-icon">
     
+      <img src="assets/images/image/notification.png" class="warning">
+      <img src="assets/images/image/Jack.png" class="danger">
       <div class="fas fa-search" id="search-btn"></div>
       </div>
     </nav>
