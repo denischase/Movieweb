@@ -41,8 +41,7 @@ include("constant.php");
       <img src="assets/images/image/notification.png" class="">
       <img src="assets/images/image/Jack.png" class="user-icon">
     
-      <img src="assets/images/image/notification.png" class="warning">
-      <img src="assets/images/image/Jack.png" class="danger">
+      
       <div class="fas fa-search" id="search-btn"></div>
       </div>
     </nav>
